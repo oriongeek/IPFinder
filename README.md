@@ -14,20 +14,8 @@ rainbow-gem
 
 ruby ip.rb 
 		
-  _____ _____    _______                      
- |_   _|  __   |__   __|                     
-   | | | |__) |    | |_ __ __ _  ___ ___ _ __ 
-   | | |  ___/     | | '__/ _` |/ __/ _  '__|
-  _| |_| |         | | | | (_| | (_|  __/ |   
- |_____|_|         |_|_|  __,_|______|_|   
- 
- 				 BY ORION G33KS
-
-
-
-
 Enter the IP to Locate
-172.217.26.68
+172.21x.xx.xx
 
 
 
@@ -36,7 +24,7 @@ FETCHING DATA PLEASE WAIT...
 
 					
 					IP Address
-					172.217.26.68
+					172.21x.xx.xx
 				
 					Location
 					 United States, California, Mountain View
@@ -83,9 +71,4 @@ FETCHING DATA PLEASE WAIT...
 					Anonymous Proxy
 					No
 				
-					Shortcut
-					http://www.ip2location.com/172.217.26.68
 				
-					Twitterbot
-					@ip2location 172.217.26.68
-
